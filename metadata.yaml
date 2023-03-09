@@ -1,0 +1,49 @@
+_repo: La-fleche-noire_70065
+_version: 0.0.1
+alternative_title: The black arrow. French
+contributor:
+  translator:
+    agent_name: La Chesnais, E.
+    aliases:
+    - Chesnais, Edmée la
+    - Chesnais, Edmee la
+    - Chesnais, E. la
+    gutenberg_agent_id: '55576'
+    url: http://www.gutenberg.org/2009/agents/55576
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70065'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k114338h
+pgterms:marc905: 20091215205036stevenson
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bsociété du Mercure de France, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction'
+- !lcsh 'Outlaws -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: La flèche noire
+url: http://www.gutenberg.org/ebooks/70065
